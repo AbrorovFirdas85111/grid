@@ -1,0 +1,17 @@
+.ichiga{
+    background-color: grey;
+    height: 800px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 40px;
+    
+}
+.box{
+    background-color: blue;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
